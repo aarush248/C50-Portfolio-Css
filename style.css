@@ -1,0 +1,36 @@
+h1{
+    color:darkslategrey
+}
+
+.Header{
+    background-color:deepskyblue;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+}
+
+.menu{
+    background-color:violet;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+}
+
+/**{
+    border:solid
+}*/
